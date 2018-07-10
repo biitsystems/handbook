@@ -18,12 +18,12 @@ As a small company, we anticipate changes will be made to this handbook in the f
 * [First Week](https://github.com/biitsystems/handbook/blob/master/Onboarding/First%20Week.md)
 
 ## Development
-[Backlog](https://github.com/biitsystems/handbook/blob/master/Development/Backlog.md)
-[Continuous Feedback](https://github.com/biitsystems/handbook/blob/master/Development/Continuous%20Feedback.md)
-[Delivery Standards](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Standards.md)
-[Delivery Practices](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Practices.md)
-[Retrospectives](https://github.com/biitsystems/handbook/blob/master/Development/Retrospectives.md)
-[Sprints](https://github.com/biitsystems/handbook/blob/master/Development/Sprints.md)
+* [Backlog](https://github.com/biitsystems/handbook/blob/master/Development/Backlog.md)
+* [Continuous Feedback](https://github.com/biitsystems/handbook/blob/master/Development/Continuous%20Feedback.md)
+* [Delivery Standards](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Standards.md)
+* [Delivery Practices](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Practices.md)
+* [Retrospectives](https://github.com/biitsystems/handbook/blob/master/Development/Retrospectives.md)
+* [Sprints](https://github.com/biitsystems/handbook/blob/master/Development/Sprints.md)
 
 ## Team Norms
 * [Communication](https://github.com/biitsystems/handbook/blob/master/Team%20Norms/Communication.md)
