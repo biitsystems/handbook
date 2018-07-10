@@ -13,33 +13,18 @@ As a small company, we anticipate changes will be made to this handbook in the f
 * [Mission Statement](https://github.com/biitsystems/handbook/blob/master/Mission%20Statement.md)
 * [biits Values](https://github.com/biitsystems/handbook/blob/master/Core%20Values.md)
 
-## Employment Policies
-
-## Hiring Documents
-* [Acknowledgement of Receipt](https://github.com/biitsystems/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [biits Offer Letter](https://github.com/biitsystems/handbook/blob/master/Hiring%20Documents/biitsystems%20Offer%20Letter.md)
-* [Employee Proprietary Information and Inventions Agreement](https://github.com/biitsystems/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Guide to Your Equity](https://github.com/biitsystems/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
-* [Handbook Introduction](https://github.com/biitsystems/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
-
 ## Onboarding Documents
-* [Welcome to biits](https://github.com/biitsystems/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20biitsystems.md)
-* [Direct Reports](https://github.com/biitsystems/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
-* [Communication and Transparency](https://github.com/biitsystems/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
-* [Objectives and Key Results](https://github.com/biitsystems/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
-* [One on Ones](https://github.com/biitsystems/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
-* [Product Manifesto](https://github.com/biitsystems/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
-* [Effective Meetings](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+* [Welcome to biits](https://github.com/biitsystems/handbook/blob/master/Onboarding/Welcome%20Pack.md)
+* [First Week](https://github.com/biitsystems/handbook/blob/master/Onboarding/First%20Week.md)
 
-## Operations Documents
-* [Sourcing Candidates](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
-* [Budgeting](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Budgeting.md)
-* [Hack Weeks](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
-* [Onboarding](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Onboarding.md)
-* [Sharing Files](https://github.com/biitsystems/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
+## Development
+[Backlog](https://github.com/biitsystems/handbook/blob/master/Development/Backlog.md)
+[Continuous Feedback](https://github.com/biitsystems/handbook/blob/master/Development/Continuous%20Feedback.md)
+[Delivery Standards](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Standards.md)
+[Delivery Practices](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Practices.md)
+[Retrospectives](https://github.com/biitsystems/handbook/blob/master/Development/Retrospectives.md)
+[Sprints](https://github.com/biitsystems/handbook/blob/master/Development/Sprints.md)
 
-## Benefits and Perks
-* [Continuing Education](https://github.com/biitsystems/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
-* [New Parent Leave](https://github.com/biitsystems/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
-* [Other Protected Absences](https://github.com/biitsystems/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
+## Team Norms
+* [Communication](https://github.com/biitsystems/handbook/blob/master/Team%20Norms/Communication.md)
+* [One on Ones](https://github.com/biitsystems/handbook/blob/master/Team%20Norms/One%20on%20Ones.md)
