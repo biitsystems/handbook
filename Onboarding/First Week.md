@@ -40,8 +40,6 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 * We succeed together when we trust each other
 
-**biits isn’t a normal security company.** Security is traditionally a very technical and inaccessible field. At biits, we’re working to make security easy and approachable to everyone, and that radiates through everything we do. Our product is meant to be friendly and fun, and our attitude should never feel superior or smug. biits isn’t about protecting people, it’s about empowering them.
-
 **Our ambition is huge.** We want to build the identity standard for the Internet. This is a massive undertaking, and we have to be a little bit delusional to believe that we can do it. But every day we’re making progress and we’ve already taken this a lot further than anyone said was possible, so we’re used to making the impossible happen. This is hard, daunting work, but that’s how we make a dent on the world.
 
 ## The biits Team, Hours, and Office
