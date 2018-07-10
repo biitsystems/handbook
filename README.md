@@ -21,7 +21,7 @@ As a small company, we anticipate changes will be made to this handbook in the f
 * [Backlog](https://github.com/biitsystems/handbook/blob/master/Development/Backlog.md)
 * [Continuous Feedback](https://github.com/biitsystems/handbook/blob/master/Development/Continuous%20Feedback.md)
 * [Delivery Standards](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Standards.md)
-* [Delivery Practices](https://github.com/biitsystems/handbook/blob/master/Development/Delivery%20Practices.md)
+* [Development Practices](https://github.com/biitsystems/handbook/blob/master/Development/Development%20Practices.md)
 * [Retrospectives](https://github.com/biitsystems/handbook/blob/master/Development/Retrospectives.md)
 * [Sprints](https://github.com/biitsystems/handbook/blob/master/Development/Sprints.md)
 

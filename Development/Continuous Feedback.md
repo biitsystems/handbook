@@ -24,7 +24,7 @@ The facilitator will always be a colleague and will frequently be a director. Th
 
 ### Receive and acknowledge feedback
 
-When your colleagues have feedback for you they will leave it on a Trello card on our [Continuous Feedback](https://trello.com/b/yM4p07sz/continuous-feedback) board.
+When your colleagues have feedback for you they will leave it on a biits card on our [Continuous Feedback](https://biitsdev.atlassian.net/) board.
 
 <img src="https://www.dropbox.com/s/6xif5of6tisyyi9/Screenshot%202016-09-26%2016.19.12.png?raw=1" width="700" alt="An image of feedback within a card" />
 

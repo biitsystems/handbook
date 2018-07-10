@@ -6,7 +6,7 @@ Below we've included a list of practices that we encourage engineers to adopt so
 
 ## Understand our Delivery Standards
 
-Regularly validate your delivery against our [Delivery Standards](delivery_standards.md).
+Regularly validate your delivery against our [Delivery Standards](Delivery%20Standards.md).
 
 ## Commit little and often
 
