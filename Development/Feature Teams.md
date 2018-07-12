@@ -10,7 +10,7 @@ The team should be better 5 and 7 people consisting of:
 
 * 1 UX/UI desinger
 * 1 Project Manager
-* Tester
+* 1 Tester
 * 1 / 2 Frontend development engineers
 * 1 / 2 Backend development engineers
 
