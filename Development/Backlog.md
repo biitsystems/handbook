@@ -31,7 +31,7 @@ Our roadmap and requirements provide the foundation for the product backlog. Roa
 
 ![roadmap](https://wac-cdn.atlassian.com/dam/jcr:272f77af-b06b-4a83-8d49-bfd9980062a3/agile_roadmap.svg?cdnVersion=jh "roadmap")
 
-Since the Teams in Space website is the first initiative in the roadmap, we'll want to break down that initiative into epics and user stories for each of those epics. 
+Since the Teams in Space website is the first initiative in the roadmap, we'll want to break down that initiative into epics and user stories for each of those epics.
 
 ### Focus on
 
