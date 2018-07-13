@@ -17,6 +17,9 @@ As a small company, we anticipate changes will be made to this handbook in the f
 * [Welcome to biits](https://github.com/biitsystems/handbook/blob/master/Onboarding/Welcome%20Pack.md)
 * [First Week](https://github.com/biitsystems/handbook/blob/master/Onboarding/First%20Week.md)
 
+## Roles
+* [Product Owner](https://github.com/biitsystems/handbook/blob/master/Roles/Product%20Owner.md)
+
 ## Development
 * [Backlog](https://github.com/biitsystems/handbook/blob/master/Development/Backlog.md)
 * [Continuous Feedback](https://github.com/biitsystems/handbook/blob/master/Development/Continuous%20Feedback.md)
