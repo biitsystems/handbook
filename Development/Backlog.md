@@ -1,10 +1,10 @@
 # Backlog
 
-The new product development process can be messy and unwieldy if it’s not managed carefully. In agile projects, product backlog grooming is the key to making sure that projects stay on track. It is important that the backlog stay at least 2 to 3 sprints ahead of the development team this will alert the product owners of possible challenges and obstacles down the road, keeping the team on track and ahead of schedule.
+The product development process can be messy and unwieldy if it’s not managed carefully. In agile projects, product backlog grooming is the key to making sure that projects stay on track. It is important that the backlog stay at least 2 to 3 sprints ahead of the development team this will alert the product owners of possible challenges and obstacles down the road, keeping the team on track and ahead of schedule.
 
 In this document we will list the tools and techiques we can use at biits to aid in this process.
 
-## Meeting
+## Meetings
 
 The product backlog grooming meeting, will take place once a week between all PMs and the product owner/customer advocates during which the participants will break the backlog down into user stories and reprioritise them.
 
